@@ -1,5 +1,4 @@
 require "spec_helper"
-require "pry"
 
 describe "Whitespace linting" do
   context FormattingSpec.detect_trailing_whitespace do
